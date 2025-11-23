@@ -43,17 +43,10 @@ Evaluación multivariables
 📝 Licencia
 Este proyecto está bajo la Licencia CC
 
-👥 Autor
-Matías Riveros
-
-GitHub: @Matata1985
-
-LinkedIn: [Matías Riveros](https://www.linkedin.com/in/matiasriveross/)
-
 🙏 Agradecimientos
 Alura Latam por el desafío de data science
 
-Equipo de mentores y compañeros
+Equipo de mentores
 
 Comunidad de ciencia de datos
 
@@ -62,10 +55,9 @@ Comunidad de ciencia de datos
 Para preguntas o colaboraciones:
 
 📧 Email: matiasriveross@dominio.com
+👥 GitHub: @Matata1985
 
-
-💼 LinkedIn: Tu Nombre
-
+💼 LinkedIn: [Matías Riveros](https://www.linkedin.com/in/matiasriveross/)
 <div align="center">
-📊 Data-Driven Decisions for Better Business
+📊 Matías Riveros S. Derecho|Comunicación|Tecnologías
 </div>
